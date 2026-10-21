@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "available": true,
+  "applicationId": "com.teveo.tv.v04",
+  "versionCode": 160,
+  "versionName": "0.16.0",
+  "minSdk": 23,
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.16.0/TEVEO-v0.16.0.apk",
+  "sha256": "95e39c73f088a9c27b1cb6e91a87f5aa23068e81039cb314ba558ff3ea4c4f19",
+  "sizeBytes": 17982155,
+  "releaseNotes": "Actualizaciones desde TEVEO, TMDB configurado y compatibilidad HTTP opcional en Ajustes."
+}

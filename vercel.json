@@ -1,0 +1,52 @@
+{
+  "redirects": [
+    {
+      "source": "/download/teveo.apk",
+      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.16.0/TEVEO-v0.16.0.apk",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/updates/android-tv.json",
+      "destination": "/android-tv.json"
+    },
+    {
+      "source": "/descargar",
+      "destination": "/descargar.html"
+    },
+    {
+      "source": "/descargar/",
+      "destination": "/descargar.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/updates/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/android-tv.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/download/teveo.apk",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    }
+  ]
+}
