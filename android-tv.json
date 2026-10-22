@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 161,
-  "versionName": "0.16.1",
+  "versionCode": 170,
+  "versionName": "0.17.0",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.16.1/TEVEO-v0.16.1.apk",
-  "sha256": "8b58c6ecca6a5263aa67fca4056a7d515d2ee9a3f62968ddf5d1f65a1532e6c3",
-  "sizeBytes": 18059678,
-  "releaseNotes": "Nuevo icono y banner. Series y Anime con categorías a la izquierda y cuadrícula de pósteres. Continuar viendo se oculta cuando está vacío."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.17.0/TEVEO-v0.17.0.apk",
+  "sha256": "682d7fec9fb17bf850c23db84a375ed41e59b8a3f55fe344b6effc71500ee0ba",
+  "sizeBytes": 18076060,
+  "releaseNotes": "Vinculación con TEVEO Admin mediante ID y clave temporal. Recibe listas al abrir sin interrumpir la reproducción. Conserva tu biblioteca ante errores."
 }
