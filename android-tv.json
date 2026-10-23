@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 183,
-  "versionName": "0.18.3",
+  "versionCode": 190,
+  "versionName": "0.19.0",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.18.3/TEVEO-v0.18.3.apk",
-  "sha256": "6011224791d46c0a77ed6c0268f5d7244108c9c6414ed95f3e50d1c9e5c6d167",
-  "sizeBytes": 18092452,
-  "releaseNotes": "Series en Todas y Destacadas: filtro común de MULTI AUDIO y MULTI SUB AUDIO. Portadas y fichas con identificación compartida. Orden por año corregido."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.0/TEVEO-v0.19.0.apk",
+  "sha256": "ea2a31a574884fba3d5dbf56339fb3c6d1f1a288d385da9ddbefc0292889f34b",
+  "sizeBytes": 18108844,
+  "releaseNotes": "TEVEO Sync: perfiles, progreso, favoritos y vistos compartidos entre televisores del mismo cliente, vinculados desde TEVEO Admin. Actualiza sin desinstalar. Sincroniza con la app abierta entre reproducciones."
 }
