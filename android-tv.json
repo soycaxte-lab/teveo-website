@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 191,
-  "versionName": "0.19.1",
+  "versionCode": 192,
+  "versionName": "0.19.2",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.1/TEVEO-v0.19.1.apk",
-  "sha256": "451c9b6497484ac19e4c5c4a6c8a9efac1e6abec390984762ecabc7dd5b82941",
-  "sizeBytes": 18108838,
-  "releaseNotes": "Mejora de portadas y coincidencias de series: títulos traducidos, etiquetas SUB, años de temporadas y desambiguación por episodios. Portadas oficiales con consultas limitadas y caché. Inicio por perfil. Actualiza sin desinstalar."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.2/TEVEO-v0.19.2.apk",
+  "sha256": "cfb35f1343084bc4d9639a1e8f0820db22afb20271e94a2b9037d5516d0096fe",
+  "sizeBytes": 18108839,
+  "releaseNotes": "ID estable por dispositivo y botón Desvincular en TEVEO Admin, conservando el ID y el progreso familiar. Actualiza sin desinstalar y abre TEVEO con conexión para registrar tu ID actual. Incluye las correcciones de portadas."
 }
