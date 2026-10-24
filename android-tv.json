@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 193,
-  "versionName": "0.19.3",
+  "versionCode": 194,
+  "versionName": "0.19.4",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.3/TEVEO-v0.19.3.apk",
-  "sha256": "a8baf70d9f995bfdd8f16dda6457b6bae0477a429f0a29d95682b5aa8f790c3c",
-  "sizeBytes": 18108838,
-  "releaseNotes": "Mejora de coincidencias y portadas oficiales de series con nombres repetidos, como Karma y Manhunt. Corrige el indicador de carga cuando no hay coincidencia segura."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.4/TEVEO-v0.19.4.apk",
+  "sha256": "1560c98c36740d7d4b4b2fd1e16d000e15a1bc9da51c81db2f22874eba6ecdbe",
+  "sizeBytes": 18125221,
+  "releaseNotes": "Datos de series Xtream y orden del proveedor en Series y Anime, con portadas oficiales verificadas. Incluye mejoras para titulos abreviados sin ano. Tras instalar, actualiza el catalogo una vez para incorporar los datos Xtream. Conserva historial y progreso."
 }
