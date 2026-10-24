@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 195,
-  "versionName": "0.19.5",
+  "versionCode": 196,
+  "versionName": "0.19.6",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.5/TEVEO-v0.19.5.apk",
-  "sha256": "1a4658d1071f33c330b0f1bc88afc6b7dc6d38c591f092b97fa40e255ab7f738",
-  "sizeBytes": 18125222,
-  "releaseNotes": "Correccion de identificacion de Series: elimina la seleccion basada solo en imagen o ID del proveedor, revisa asociaciones antiguas al mostrar tarjetas y mejora titulos sin ano y prefijos de idiomas. Conserva el resto de la app y el orden del proveedor."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.6/TEVEO-v0.19.6.apk",
+  "sha256": "d12f728876e841201fd092e67a3494a44a68d0d613eb8023d4c297f1aa004d76",
+  "sizeBytes": 18125224,
+  "releaseNotes": "Corrección de portadas de Series: reconoce años que pertenecen al título y distingue series con el mismo nombre usando el número de episodios cuando existe una coincidencia claramente única. Incluye La casa de papel, Alone, Blindspot, Sealab 2021, V 2009, Curso del 2007 y Collision."
 }
