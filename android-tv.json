@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 192,
-  "versionName": "0.19.2",
+  "versionCode": 193,
+  "versionName": "0.19.3",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.2/TEVEO-v0.19.2.apk",
-  "sha256": "cfb35f1343084bc4d9639a1e8f0820db22afb20271e94a2b9037d5516d0096fe",
-  "sizeBytes": 18108839,
-  "releaseNotes": "ID estable por dispositivo y botón Desvincular en TEVEO Admin, conservando el ID y el progreso familiar. Actualiza sin desinstalar y abre TEVEO con conexión para registrar tu ID actual. Incluye las correcciones de portadas."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.3/TEVEO-v0.19.3.apk",
+  "sha256": "a8baf70d9f995bfdd8f16dda6457b6bae0477a429f0a29d95682b5aa8f790c3c",
+  "sizeBytes": 18108838,
+  "releaseNotes": "Mejora de coincidencias y portadas oficiales de series con nombres repetidos, como Karma y Manhunt. Corrige el indicador de carga cuando no hay coincidencia segura."
 }
