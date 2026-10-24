@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 194,
-  "versionName": "0.19.4",
+  "versionCode": 195,
+  "versionName": "0.19.5",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.4/TEVEO-v0.19.4.apk",
-  "sha256": "1560c98c36740d7d4b4b2fd1e16d000e15a1bc9da51c81db2f22874eba6ecdbe",
-  "sizeBytes": 18125221,
-  "releaseNotes": "Datos de series Xtream y orden del proveedor en Series y Anime, con portadas oficiales verificadas. Incluye mejoras para titulos abreviados sin ano. Tras instalar, actualiza el catalogo una vez para incorporar los datos Xtream. Conserva historial y progreso."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.5/TEVEO-v0.19.5.apk",
+  "sha256": "1a4658d1071f33c330b0f1bc88afc6b7dc6d38c591f092b97fa40e255ab7f738",
+  "sizeBytes": 18125222,
+  "releaseNotes": "Correccion de identificacion de Series: elimina la seleccion basada solo en imagen o ID del proveedor, revisa asociaciones antiguas al mostrar tarjetas y mejora titulos sin ano y prefijos de idiomas. Conserva el resto de la app y el orden del proveedor."
 }
