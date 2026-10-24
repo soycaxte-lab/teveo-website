@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 196,
-  "versionName": "0.19.6",
+  "versionCode": 197,
+  "versionName": "0.19.7",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.6/TEVEO-v0.19.6.apk",
-  "sha256": "d12f728876e841201fd092e67a3494a44a68d0d613eb8023d4c297f1aa004d76",
-  "sizeBytes": 18125224,
-  "releaseNotes": "Corrección de portadas de Series: reconoce años que pertenecen al título y distingue series con el mismo nombre usando el número de episodios cuando existe una coincidencia claramente única. Incluye La casa de papel, Alone, Blindspot, Sealab 2021, V 2009, Curso del 2007 y Collision."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.7/TEVEO-v0.19.7.apk",
+  "sha256": "beae9c90e5542d9fbf6902aa1f83dde881cffff67d3eeb8de2f5aca2ea1638e5",
+  "sizeBytes": 18125220,
+  "releaseNotes": "Series abre directamente en las categorías del proveedor y deja de mostrar Todas. Oculta las series con prefijos IN y AR en la exploración sin borrar datos. Mejora el reconocimiento de etiquetas de audio, Hawaii Five-O 1968, The Outer Limits 1960 y P.I. 1980. Los títulos ambiguos conservan la corrección manual de ficha."
 }
