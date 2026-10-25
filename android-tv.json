@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 199,
-  "versionName": "0.19.9",
+  "versionCode": 200,
+  "versionName": "0.19.10",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.9/TEVEO-v0.19.9.apk",
-  "sha256": "b68bb17d700c5e216bd65488637d2a3e59403f7caa88193ba331c8422c973908",
-  "sizeBytes": 18125227,
-  "releaseNotes": "Corrige la identificación de portadas de series con temporadas incompletas, incluidos Brothers y Line of Fire. Conserva el póster oficial al volver a las tarjetas. Mantiene catálogo, perfiles, progreso y TEVEO Sync."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.10/TEVEO-v0.19.10.apk",
+  "sha256": "2e23e9cfbc26ff7a3d7874c873d77892d71fdc157e1989500a52b7691922ef80",
+  "sizeBytes": 18125224,
+  "releaseNotes": "Mejora la identificación de portadas oficiales de series, incluidas Goosebumps, Blind Spot y Big Zuu. Configuración de TMDB verificada. Conserva catálogo, perfiles, progreso y TEVEO Sync."
 }
