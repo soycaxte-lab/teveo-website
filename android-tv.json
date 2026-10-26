@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 205,
-  "versionName": "0.20",
+  "versionCode": 206,
+  "versionName": "0.20.1",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20/TEVEO-v0.20.apk",
-  "sha256": "4b01315a3108e615d63424646ae65574d333d9e6a2571e3275571e2dd1a4d283",
-  "sizeBytes": 18174371,
-  "releaseNotes": "Guía Ahora/Siguiente, búsqueda de programación y filas Deportes hoy y En vivo en tus favoritos cuando el proveedor ofrece EPG. Mejoras en comas, redirecciones y mensajes de error. Basada en beta 4 aprobada, sin cambios adicionales de diseño."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.1/TEVEO-v0.20.1.apk",
+  "sha256": "b46ddb6cf2a46021625a4c572c20767c493b834c6998fadc9a3b932bc7efff71",
+  "sizeBytes": 18190769,
+  "releaseNotes": "Deportes hoy con tarjetas compactas, hasta ocho eventos y emisiones en vivo primero. Agrupa partidos con título y horario coincidentes y permite elegir canal. Ver todos abre la agenda. Ocultar por perfil en este televisor, con Deshacer y Ajustes > Inicio para recuperarlo. Utiliza la guía del proveedor, sin API deportiva externa."
 }
