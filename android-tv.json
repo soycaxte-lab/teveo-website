@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 206,
-  "versionName": "0.20.1",
+  "versionCode": 207,
+  "versionName": "0.20.2",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.1/TEVEO-v0.20.1.apk",
-  "sha256": "b46ddb6cf2a46021625a4c572c20767c493b834c6998fadc9a3b932bc7efff71",
-  "sizeBytes": 18190769,
-  "releaseNotes": "Deportes hoy con tarjetas compactas, hasta ocho eventos y emisiones en vivo primero. Agrupa partidos con título y horario coincidentes y permite elegir canal. Ver todos abre la agenda. Ocultar por perfil en este televisor, con Deshacer y Ajustes > Inicio para recuperarlo. Utiliza la guía del proveedor, sin API deportiva externa."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.2/TEVEO-v0.20.2.apk",
+  "sha256": "f83c7a55992f0d1b9589ac1aea7b8cda4034404871bb49b142b655bafb28cdb7",
+  "sizeBytes": 18239907,
+  "releaseNotes": "Agenda de fútbol con escudos y horarios, configurada automáticamente. Canales según la guía del proveedor, con mejor identificación de PSG/Lyon y emisiones que comienzan antes del partido. Categorías VIP primero en TV en vivo. Conserva la opción de ocultar Deportes por perfil. La disponibilidad de partidos depende de la cobertura de football-data.org y los canales de la guía disponible."
 }
