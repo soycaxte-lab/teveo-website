@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 207,
-  "versionName": "0.20.2",
+  "versionCode": 208,
+  "versionName": "0.20.3",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.2/TEVEO-v0.20.2.apk",
-  "sha256": "f83c7a55992f0d1b9589ac1aea7b8cda4034404871bb49b142b655bafb28cdb7",
-  "sizeBytes": 18239907,
-  "releaseNotes": "Agenda de fútbol con escudos y horarios, configurada automáticamente. Canales según la guía del proveedor, con mejor identificación de PSG/Lyon y emisiones que comienzan antes del partido. Categorías VIP primero en TV en vivo. Conserva la opción de ocultar Deportes por perfil. La disponibilidad de partidos depende de la cobertura de football-data.org y los canales de la guía disponible."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.3/TEVEO-v0.20.3.apk",
+  "sha256": "7615c6b1ccb44cb5de0c0c5ef2a666d426188925c45a77c9a320596f5df4d702",
+  "sizeBytes": 18239915,
+  "releaseNotes": "Mejoras del reproductor: reconexión automática limitada ante cortes temporales de TV en vivo; controles Canal −, Último canal y Canal + con compatibilidad para teclas de canal del mando. Conserva las preferencias de audio y subtítulos por perfil. Deportes sin cambios."
 }
