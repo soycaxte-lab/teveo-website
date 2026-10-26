@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 200,
-  "versionName": "0.19.10",
+  "versionCode": 205,
+  "versionName": "0.20",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.19.10/TEVEO-v0.19.10.apk",
-  "sha256": "2e23e9cfbc26ff7a3d7874c873d77892d71fdc157e1989500a52b7691922ef80",
-  "sizeBytes": 18125224,
-  "releaseNotes": "Mejora la identificación de portadas oficiales de series, incluidas Goosebumps, Blind Spot y Big Zuu. Configuración de TMDB verificada. Conserva catálogo, perfiles, progreso y TEVEO Sync."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20/TEVEO-v0.20.apk",
+  "sha256": "4b01315a3108e615d63424646ae65574d333d9e6a2571e3275571e2dd1a4d283",
+  "sizeBytes": 18174371,
+  "releaseNotes": "Guía Ahora/Siguiente, búsqueda de programación y filas Deportes hoy y En vivo en tus favoritos cuando el proveedor ofrece EPG. Mejoras en comas, redirecciones y mensajes de error. Basada en beta 4 aprobada, sin cambios adicionales de diseño."
 }
