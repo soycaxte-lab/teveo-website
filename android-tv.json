@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 209,
-  "versionName": "0.20.4",
+  "versionCode": 210,
+  "versionName": "0.20.5",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.4/TEVEO-v0.20.4.apk",
-  "sha256": "ae74077529286319c7f75b8a594170a20d2056a36d58eebc9e96efffafd3a3e9",
-  "sizeBytes": 18239918,
-  "releaseNotes": "TV en vivo: categorías más anchas con nombres completos en varias líneas, vista previa arriba en su propia columna y controles debajo de la información del canal. Conserva el banner panorámico, los colores y las funciones actuales de TEVEO."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.5/TEVEO-v0.20.5.apk",
+  "sha256": "5326a4a4941c5172643f3875c9ec94d9f6348fe6bdf7d52ad500f4f362bd5766",
+  "sizeBytes": 18239915,
+  "releaseNotes": "TV en vivo: arriba y abajo cambian de canal con los controles ocultos. Favoritos de TV debajo de Todos, separados por perfil; se retiran las filas de canales favoritos de Inicio. Buscar enfoca el campo de escritura y muestra resultados mientras escribes. Conserva el diseño y las portadas actuales."
 }
