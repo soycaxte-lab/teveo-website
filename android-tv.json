@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 208,
-  "versionName": "0.20.3",
+  "versionCode": 209,
+  "versionName": "0.20.4",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.3/TEVEO-v0.20.3.apk",
-  "sha256": "7615c6b1ccb44cb5de0c0c5ef2a666d426188925c45a77c9a320596f5df4d702",
-  "sizeBytes": 18239915,
-  "releaseNotes": "Mejoras del reproductor: reconexión automática limitada ante cortes temporales de TV en vivo; controles Canal −, Último canal y Canal + con compatibilidad para teclas de canal del mando. Conserva las preferencias de audio y subtítulos por perfil. Deportes sin cambios."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.4/TEVEO-v0.20.4.apk",
+  "sha256": "ae74077529286319c7f75b8a594170a20d2056a36d58eebc9e96efffafd3a3e9",
+  "sizeBytes": 18239918,
+  "releaseNotes": "TV en vivo: categorías más anchas con nombres completos en varias líneas, vista previa arriba en su propia columna y controles debajo de la información del canal. Conserva el banner panorámico, los colores y las funciones actuales de TEVEO."
 }
