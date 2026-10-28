@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/download/teveo.apk",
-      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.5/TEVEO-v0.20.5.apk",
+      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.6/TEVEO-v0.20.6.apk",
       "permanent": false
     }
   ],
