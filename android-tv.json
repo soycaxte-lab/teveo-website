@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 211,
-  "versionName": "0.20.6",
+  "versionCode": 212,
+  "versionName": "0.20.7",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.6/TEVEO-v0.20.6.apk",
-  "sha256": "eb9b93910e19002bfdc84184fe45b2a7668cf9380f7808716e6632f3edfbe300",
-  "sizeBytes": 18256289,
-  "releaseNotes": "TV en vivo: Ahora / Siguiente con horarios completos y progreso del programa. Ver programación por canal con los próximos horarios y descripciones disponibles en la guía del proveedor. Ajustes: diagnóstico sencillo con versión, estado y fechas del catálogo y la guía, y hasta 10 avisos locales sin enlaces ni credenciales. Conserva deportes, portadas, catálogo y preferencias."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.7/TEVEO-v0.20.7.apk",
+  "sha256": "d4b4419ed74e700f3fea4e9f6b20798592df830df9e36c673a11e2a27be821e8",
+  "sizeBytes": 18256296,
+  "releaseNotes": "Agenda de fútbol con StatArena: partidos, escudos y tarjetas más compactas. Búsqueda de canales en la guía del proveedor con mejores coincidencias de equipos y horario, mensajes claros cuando falta programación y opción para actualizar la guía. Agenda servida desde TEVEO con caché compartida; no necesita PC ni introducir claves. Los canales dependen de la información disponible en la guía. Marcadores al consultar la agenda, sin seguimiento continuo. Conserva el inicio actual, las portadas y TEVEO Sync."
 }
