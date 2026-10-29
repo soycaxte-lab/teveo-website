@@ -48,5 +48,10 @@
         }
       ]
     }
-  ]
+  ],
+  "functions": {
+    "api/statarena.js": {
+      "maxDuration": 60
+    }
+  }
 }
