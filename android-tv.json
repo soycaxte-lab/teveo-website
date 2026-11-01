@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 212,
-  "versionName": "0.20.7",
+  "versionCode": 213,
+  "versionName": "0.20.8",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.7/TEVEO-v0.20.7.apk",
-  "sha256": "d4b4419ed74e700f3fea4e9f6b20798592df830df9e36c673a11e2a27be821e8",
-  "sizeBytes": 18256296,
-  "releaseNotes": "Agenda de fútbol con StatArena: partidos, escudos y tarjetas más compactas. Búsqueda de canales en la guía del proveedor con mejores coincidencias de equipos y horario, mensajes claros cuando falta programación y opción para actualizar la guía. Agenda servida desde TEVEO con caché compartida; no necesita PC ni introducir claves. Los canales dependen de la información disponible en la guía. Marcadores al consultar la agenda, sin seguimiento continuo. Conserva el inicio actual, las portadas y TEVEO Sync."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.8/TEVEO-v0.20.8.apk",
+  "sha256": "b5e4b0ed7e906b55151f180dbf11fabe372364796f4f2bf701bc9162f2116fae",
+  "sizeBytes": 18272666,
+  "releaseNotes": "Inicio renovado con imagen hasta arriba y Continuar viendo debajo, sin la sección Para esta noche ni Sorpréndeme. La agenda deportiva conserva los partidos guardados mientras actualiza y reutiliza la carga al cambiar de día. Se mantienen las portadas, reproducción y sincronización."
 }
