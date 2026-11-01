@@ -4,6 +4,16 @@
       "source": "/download/teveo.apk",
       "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.8/TEVEO-v0.20.8.apk",
       "permanent": false
+    },
+    {
+      "source": "/teveo",
+      "destination": "/download/teveo.apk",
+      "permanent": false
+    },
+    {
+      "source": "/teveo/",
+      "destination": "/download/teveo.apk",
+      "permanent": false
     }
   ],
   "rewrites": [
