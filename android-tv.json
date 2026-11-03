@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 213,
-  "versionName": "0.20.8",
+  "versionCode": 214,
+  "versionName": "0.20.9",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.8/TEVEO-v0.20.8.apk",
-  "sha256": "b5e4b0ed7e906b55151f180dbf11fabe372364796f4f2bf701bc9162f2116fae",
-  "sizeBytes": 18272666,
-  "releaseNotes": "Inicio renovado con imagen hasta arriba y Continuar viendo debajo, sin la sección Para esta noche ni Sorpréndeme. La agenda deportiva conserva los partidos guardados mientras actualiza y reutiliza la carga al cambiar de día. Se mantienen las portadas, reproducción y sincronización."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.9/TEVEO-v0.20.9.apk",
+  "sha256": "128aec6cada028cdf097cd404f8ec139a9d437998ae5cca066a1eace81858dc0",
+  "sizeBytes": 18272678,
+  "releaseNotes": "La búsqueda puede consultar el catálogo mientras se guardan cambios en segundo plano, evitando una espera de escritura innecesaria. Al iniciar reproducción desde Continuar viendo se muestra el estado de preparación y un aviso si la sincronización sigue ocupada, con protección frente a pulsaciones repetidas. Se conservan catálogo y progreso."
 }
