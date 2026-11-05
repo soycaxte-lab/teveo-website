@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 214,
-  "versionName": "0.20.9",
+  "versionCode": 215,
+  "versionName": "0.20.10",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.9/TEVEO-v0.20.9.apk",
-  "sha256": "128aec6cada028cdf097cd404f8ec139a9d437998ae5cca066a1eace81858dc0",
-  "sizeBytes": 18272678,
-  "releaseNotes": "La búsqueda puede consultar el catálogo mientras se guardan cambios en segundo plano, evitando una espera de escritura innecesaria. Al iniciar reproducción desde Continuar viendo se muestra el estado de preparación y un aviso si la sincronización sigue ocupada, con protección frente a pulsaciones repetidas. Se conservan catálogo y progreso."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.10/TEVEO-v0.20.10.apk",
+  "sha256": "a7a8847bb3438f558e4b30ebe20c5cd5f58b41897effac4d0c7f4786ec549fea",
+  "sizeBytes": 18272680,
+  "releaseNotes": "Corrección de la espera de TEVEO Sync al iniciar reproducción desde Continuar viendo. Al pedir reproducir, Sync puede pausar su lote local de forma segura y reintentarlo después, conservando el progreso y los cambios pendientes. Se mantienen las mejoras de búsqueda de la versión anterior."
 }
