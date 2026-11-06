@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 215,
-  "versionName": "0.20.10",
+  "versionCode": 216,
+  "versionName": "0.20.11",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.10/TEVEO-v0.20.10.apk",
-  "sha256": "a7a8847bb3438f558e4b30ebe20c5cd5f58b41897effac4d0c7f4786ec549fea",
-  "sizeBytes": 18272680,
-  "releaseNotes": "Corrección de la espera de TEVEO Sync al iniciar reproducción desde Continuar viendo. Al pedir reproducir, Sync puede pausar su lote local de forma segura y reintentarlo después, conservando el progreso y los cambios pendientes. Se mantienen las mejoras de búsqueda de la versión anterior."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.11/TEVEO-v0.20.11.apk",
+  "sha256": "519940f06428be8105cf874c869733dc82092be35656612235eda777e332d655",
+  "sizeBytes": 18273504,
+  "releaseNotes": "En Inicio, las flechas arriba y abajo conectan Buscar, Ver ahora, Editar y Continuar viendo. Anime tiene un nuevo icono de rostro con sombrero de paja. En el reproductor, Siguiente episodio aparece junto a Audio / CC cuando hay otro capítulo disponible."
 }
