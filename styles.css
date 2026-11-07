@@ -24,3 +24,6 @@ body{background:#07080e}.site-glow{display:none}.topbar{max-width:1440px;height:
 
 /* Demo request remains visible on mobile. */
 .whatsapp-float{font-size:14px}.whatsapp-float span{display:inline}@media(max-width:550px){.whatsapp-float{padding:11px 14px;gap:8px;font-size:12px}.whatsapp-float span{display:inline}}
+
+/* Full-width cinematic backdrop; the content keeps its centered max-width. */
+.cinema-hero::before{left:50%;right:auto;width:100vw;transform:translateX(-50%);background:radial-gradient(ellipse at 72% 45%,#49236855,transparent 70%),#07080e;pointer-events:none}
