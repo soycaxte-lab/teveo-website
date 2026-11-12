@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 216,
-  "versionName": "0.20.11",
+  "versionCode": 217,
+  "versionName": "0.20.12",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.11/TEVEO-v0.20.11.apk",
-  "sha256": "519940f06428be8105cf874c869733dc82092be35656612235eda777e332d655",
-  "sizeBytes": 18273504,
-  "releaseNotes": "En Inicio, las flechas arriba y abajo conectan Buscar, Ver ahora, Editar y Continuar viendo. Anime tiene un nuevo icono de rostro con sombrero de paja. En el reproductor, Siguiente episodio aparece junto a Audio / CC cuando hay otro capítulo disponible."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.12/TEVEO-v0.20.12.apk",
+  "sha256": "5837b009e429f11d0008c919e3a05cc34e8fe3fa348a0255097d460ecd00caca",
+  "sizeBytes": 18273490,
+  "releaseNotes": "Se excluyen del catalogo los titulos de Gad Elmaleh solicitados: no aparecen en Series, destacados ni busqueda. El filtro funciona tambien sobre las listas ya cargadas. Sin cambios al identificador de portadas, deportes o reproduccion."
 }
