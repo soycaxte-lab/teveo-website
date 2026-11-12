@@ -1,6 +1,50 @@
 {
   "redirects": [
     {
+      "source": "/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.kingmediaglobal.com"
+        }
+      ],
+      "destination": "https://teveotv.com/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.kingmediaglobal.com"
+        }
+      ],
+      "destination": "https://teveotv.com/",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "kingmediaglobal.com"
+        }
+      ],
+      "destination": "https://teveotv.com/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "kingmediaglobal.com"
+        }
+      ],
+      "destination": "https://teveotv.com/",
+      "permanent": true
+    },
+    {
       "source": "/download/teveo.apk",
       "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.12/TEVEO-v0.20.12.apk",
       "permanent": false
