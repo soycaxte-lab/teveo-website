@@ -58,6 +58,16 @@
       "source": "/teveo/",
       "destination": "/download/teveo.apk",
       "permanent": false
+    },
+    {
+      "source": "/activar",
+      "destination": "https://activar.teveotv.com",
+      "permanent": false
+    },
+    {
+      "source": "/activar/",
+      "destination": "https://activar.teveotv.com",
+      "permanent": false
     }
   ],
   "rewrites": [
