@@ -72,6 +72,18 @@
   ],
   "rewrites": [
     {
+      "source": "/windows",
+      "destination": "/api/windows-download"
+    },
+    {
+      "source": "/windows/",
+      "destination": "/api/windows-download"
+    },
+    {
+      "source": "/download/teveo.exe",
+      "destination": "/api/windows-download"
+    },
+    {
       "source": "/updates/android-tv.json",
       "destination": "/android-tv.json"
     },
@@ -116,6 +128,9 @@
   "functions": {
     "api/statarena.js": {
       "maxDuration": 60
+    },
+    "api/windows-download.js": {
+      "includeFiles": "updates/windows-stable.json"
     }
   }
 }
