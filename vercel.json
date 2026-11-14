@@ -131,6 +131,15 @@
     },
     "api/windows-download.js": {
       "includeFiles": "updates/windows-stable.json"
+    },
+    "api/cinema-refresh.js": {
+      "maxDuration": 300
     }
-  }
+  },
+  "crons": [
+    {
+      "path": "/api/cinema-refresh",
+      "schedule": "0 10 * * *"
+    }
+  ]
 }
