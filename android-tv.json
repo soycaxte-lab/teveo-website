@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 218,
-  "versionName": "0.20.13",
+  "versionCode": 219,
+  "versionName": "0.20.14",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.13/TEVEO-v0.20.13.apk",
-  "sha256": "a7d731a9d61e26c953e3e9d176d2cce71c207e66d25e61049cdfa3d8c235b8ef",
-  "sizeBytes": 18289883,
-  "releaseNotes": "Subtítulos externos en español para películas y series sin pista en español. Búsqueda desde el televisor mediante el servidor de TEVEO. Ajuste de sincronización en pasos de 0,5 segundos, guardado por perfil, título y subtítulo. Conserva el audio sin reiniciar la reproducción. Las descargas dependen de la disponibilidad y los límites de OpenSubtitles."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.14/TEVEO-v0.20.14.apk",
+  "sha256": "1cfd731c3a0c327d0f9a0d48453d3d601dce8a5d53bf180d48ea833941dd81db",
+  "sizeBytes": 18306259,
+  "releaseNotes": "Nueva ficha de películas con imagen de fondo a pantalla completa y degradado. Pósters verticales completos en las recomendaciones de la ficha y del reproductor. Foco automático en Reproducir o Continuar al abrir películas y series. Al volver desde recomendaciones se muestra otra vez la cabecera completa, sin cortar el título."
 }
