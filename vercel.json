@@ -134,6 +134,9 @@
     },
     "api/cinema-refresh.js": {
       "maxDuration": 300
+    },
+    "api/subtitles.js": {
+      "maxDuration": 60
     }
   },
   "crons": [
