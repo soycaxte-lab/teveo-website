@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 217,
-  "versionName": "0.20.12",
+  "versionCode": 218,
+  "versionName": "0.20.13",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.12/TEVEO-v0.20.12.apk",
-  "sha256": "5837b009e429f11d0008c919e3a05cc34e8fe3fa348a0255097d460ecd00caca",
-  "sizeBytes": 18273490,
-  "releaseNotes": "Se excluyen del catalogo los titulos de Gad Elmaleh solicitados: no aparecen en Series, destacados ni busqueda. El filtro funciona tambien sobre las listas ya cargadas. Sin cambios al identificador de portadas, deportes o reproduccion."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.13/TEVEO-v0.20.13.apk",
+  "sha256": "a7d731a9d61e26c953e3e9d176d2cce71c207e66d25e61049cdfa3d8c235b8ef",
+  "sizeBytes": 18289883,
+  "releaseNotes": "Subtítulos externos en español para películas y series sin pista en español. Búsqueda desde el televisor mediante el servidor de TEVEO. Ajuste de sincronización en pasos de 0,5 segundos, guardado por perfil, título y subtítulo. Conserva el audio sin reiniciar la reproducción. Las descargas dependen de la disponibilidad y los límites de OpenSubtitles."
 }
