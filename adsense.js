@@ -1,6 +1,6 @@
 (() => {
   // Enable only after the real publisher/unit IDs and Google CMP are configured.
-  const config = {enabled:false, client:'ca-pub-1548422917384062', slot:''};
+  const config = {enabled:false, client:'ca-pub-1548422917384062', slot:'6538389469'};
   const section=document.getElementById('teveo-ad-home');
   if(!section || !config.enabled || !/^ca-pub-\d{16}$/.test(config.client) || !/^\d+$/.test(config.slot))return;
   const ad=section.querySelector('ins');
