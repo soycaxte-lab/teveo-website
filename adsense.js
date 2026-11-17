@@ -1,6 +1,15 @@
 (() => {
-  // Enable only after the real publisher/unit IDs and Google CMP are configured.
-  const config = {enabled:false, client:'ca-pub-1548422917384062', slot:'6538389469'};
+  // One manual placement; consent is managed by the published Google CMP.
+  const config = {enabled:true, client:'ca-pub-1548422917384062', slot:'6538389469'};
+  window.googlefc=window.googlefc||{};
+  window.googlefc.callbackQueue=window.googlefc.callbackQueue||[];
+  const privacyButton=document.getElementById('ad-privacy-options');
+  window.googlefc.callbackQueue.push({CONSENT_API_READY:()=>{
+    if(privacyButton)privacyButton.hidden=false;
+  }});
+  if(privacyButton)privacyButton.addEventListener('click',()=>{
+    window.googlefc.callbackQueue.push({CONSENT_API_READY:()=>window.googlefc.showRevocationMessage()});
+  });
   const section=document.getElementById('teveo-ad-home');
   if(!section || !config.enabled || !/^ca-pub-\d{16}$/.test(config.client) || !/^\d+$/.test(config.slot))return;
   const ad=section.querySelector('ins');
