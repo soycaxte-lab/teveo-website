@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 221,
-  "versionName": "0.20.16",
+  "versionCode": 222,
+  "versionName": "0.20.17",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.16/TEVEO-v0.20.16.apk",
-  "sha256": "46a627bac5967f0c0f0a60ee74b0741f22a386d61f2857f50737c500893c5721",
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.17/TEVEO-v0.20.17.apk",
+  "sha256": "09f2134106767b948502d72610ba25adf75c25ab2787d58800cbcd23e392c240",
   "sizeBytes": 18306265,
-  "releaseNotes": "Portadas con estilo uniforme en Inicio, películas, series, anime, búsquedas, favoritos, Continuar viendo, episodios y reparto. Se eliminan los fondos y marcos permanentes de las tarjetas; solo la imagen seleccionada muestra un contorno violeta. Se mantienen tamaños, progreso de reproducción, edición y navegación."
+  "releaseNotes": "Inicio más limpio, títulos de películas con año e idioma, y tiempo restante en Continuar viendo. Canales y programación más legibles. Nuevos controles compactos de reproducción."
 }
