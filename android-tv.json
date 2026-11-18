@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 219,
-  "versionName": "0.20.14",
+  "versionCode": 220,
+  "versionName": "0.20.15",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.14/TEVEO-v0.20.14.apk",
-  "sha256": "1cfd731c3a0c327d0f9a0d48453d3d601dce8a5d53bf180d48ea833941dd81db",
-  "sizeBytes": 18306259,
-  "releaseNotes": "Nueva ficha de películas con imagen de fondo a pantalla completa y degradado. Pósters verticales completos en las recomendaciones de la ficha y del reproductor. Foco automático en Reproducir o Continuar al abrir películas y series. Al volver desde recomendaciones se muestra otra vez la cabecera completa, sin cortar el título."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.15/TEVEO-v0.20.15.apk",
+  "sha256": "a8dda6dc339c1516d4cf836b5af8a9f78d480f5c4e3ebf684c3c5a3111fe72dc",
+  "sizeBytes": 18306272,
+  "releaseNotes": "Ficha de películas más limpia: portada principal recuperada junto al título, una sola sinopsis con Ver más para leer el texto completo y recomendaciones más pequeñas. Se eliminan el fondo y el marco permanente de las tarjetas; el contorno violeta aparece solo al tener foco. Se conservan el fondo cinematográfico completo, el foco en Reproducir o Continuar y el regreso a la cabecera sin cortar el título."
 }
