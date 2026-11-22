@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "available": true,
+  "applicationId": "com.teveo.movil.stable",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "minSdk": 23,
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1/TEVEO-Movil-v1.1.apk",
+  "sha256": "4a19458baab7e9c7e0b50a9af0a0e37b92e07a70e62b27968f914ec8a596e225",
+  "sizeBytes": 11305502,
+  "releaseNotes": "TV en vivo por países, Inicio con portadas durante la importación y actualizaciones desde Ajustes."
+}
