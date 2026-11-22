@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.movil.stable",
-  "versionCode": 4,
-  "versionName": "1.1.2",
+  "versionCode": 2,
+  "versionName": "1.1",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.2/TEVEO-Movil-v1.1.2.apk",
-  "sha256": "a97a9ed853f7077c78d852edd1442e3f572a7785b7876cfdc4329ad85527f9e1",
-  "sizeBytes": 11305509,
-  "releaseNotes": "Al terminar la importación, Inicio muestra el destacado con Ver ahora, Mi lista y Detalles. Continuar viendo aparece justo debajo cuando el perfil tiene progreso."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1/TEVEO-Movil-v1.1.apk",
+  "sha256": "4a19458baab7e9c7e0b50a9af0a0e37b92e07a70e62b27968f914ec8a596e225",
+  "sizeBytes": 11305502,
+  "releaseNotes": "TV en vivo por países, Inicio con portadas durante la importación y actualizaciones desde Ajustes."
 }
