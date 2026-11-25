@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.tv.v04",
-  "versionCode": 222,
-  "versionName": "0.20.17",
+  "versionCode": 223,
+  "versionName": "0.20.18",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.17/TEVEO-v0.20.17.apk",
-  "sha256": "09f2134106767b948502d72610ba25adf75c25ab2787d58800cbcd23e392c240",
-  "sizeBytes": 18306265,
-  "releaseNotes": "Inicio más limpio, títulos de películas con año e idioma, y tiempo restante en Continuar viendo. Canales y programación más legibles. Nuevos controles compactos de reproducción."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-v0.20.18/TEVEO-v0.20.18.apk",
+  "sha256": "88bc5b7aeab964abc42776506651cee14e89589f8cea95cb733dda939fbbac5d",
+  "sizeBytes": 18306273,
+  "releaseNotes": "Android TV muestra el permiso HTTP al recibir la lista de TEVEO Admin. Al aceptarlo, vuelve a consultar la lista automáticamente. Si falta autorización en el panel, el televisor indica dónde resolverlo. También aclara cómo recuperar el vínculo conservando el ID."
 }
