@@ -71,12 +71,12 @@
     },
     {
       "source": "/movil",
-      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.3/TEVEO-Movil-v1.1.3.apk",
+      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.4/TEVEO-Movil-v1.1.4.apk",
       "permanent": false
     },
     {
       "source": "/movil/",
-      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.3/TEVEO-Movil-v1.1.3.apk",
+      "destination": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.4/TEVEO-Movil-v1.1.4.apk",
       "permanent": false
     }
   ],

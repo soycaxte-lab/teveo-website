@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "available": true,
   "applicationId": "com.teveo.movil.stable",
-  "versionCode": 5,
-  "versionName": "1.1.3",
+  "versionCode": 6,
+  "versionName": "1.1.4",
   "minSdk": 23,
-  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.3/TEVEO-Movil-v1.1.3.apk",
-  "sha256": "855d76cb4d7219541595819c632c8b252535fb0433e19e8a8f3755fdbff46fe0",
-  "sizeBytes": 11304840,
-  "releaseNotes": "Inicio muestra el destacado y Continuar viendo debajo al terminar de importar. Las futuras actualizaciones se descargan desde la web oficial, sin pedir a TEVEO permiso para instalar aplicaciones."
+  "apkUrl": "https://github.com/soycaxte-lab/teveo-website/releases/download/teveo-movil-v1.1.4/TEVEO-Movil-v1.1.4.apk",
+  "sha256": "1d1d2ba04e4a1eeb5b09640eb3bd32babb709ee7ed3342dadbe1699aee0ea3e3",
+  "sizeBytes": 11304838,
+  "releaseNotes": "Al conectar tu lista M3U, TEVEO vuelve a intentarlo si el servidor no responde a la conexión inicial. Si falla tras una redirección, el aviso identifica el servidor de destino."
 }
